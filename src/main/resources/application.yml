@@ -1,0 +1,13 @@
+wordz:
+  dict:
+    name: "ENGZ1.dict"
+    version: 1.0.1
+
+angular:
+  version: 2.0
+
+jdc:
+  first:  John
+  middle: Dempsey
+  last: Cotter
+  favColor: Orange
